@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Stats](https://github-readme-stats.vercel.app/api?username=melikegecer&show_icons=true&theme=dark)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melikegecer&theme=dark&show_icons=true)
+
 <!--
 **melikegecer/melikegecer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
